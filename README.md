@@ -16,3 +16,9 @@ Today we are learning Github and Markdow. In the afternoon we will do the comput
 
 ## Link a page
 [Spiced Academy](https://www.spiced-academy.com/en)
+
+
+## Image
+
+### Image in repo.
+![Ron](./ron.png)
