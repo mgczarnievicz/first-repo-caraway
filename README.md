@@ -22,3 +22,7 @@ Today we are learning Github and Markdow. In the afternoon we will do the comput
 
 ### Image in repo.
 ![Ron](./ron.png)
+
+
+### Image form web
+![Flowers](https://images.saymedia-content.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MjA0NzYyMDM4MDkyNzAyNzQ5/10-of-the-most-beautiful-flowers-in-the-world.jpg)
