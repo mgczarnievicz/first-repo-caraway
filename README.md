@@ -13,3 +13,6 @@ Today we are learning Github and Markdow. In the afternoon we will do the comput
 1. Item 1
 2. Item 2
 3. Item 3
+
+## Link a page
+[Spiced Academy](https://www.spiced-academy.com/en)
