@@ -32,3 +32,14 @@ Today we are learning Github and Markdow. In the afternoon we will do the comput
 
 ### Code line
 This is how we write code in line `let name = "Caraway"`
+
+### Code block
+```js
+let cohort = "Caraway"; 
+
+let loveMd = true;
+```
+
+```
+This is a code block
+```
