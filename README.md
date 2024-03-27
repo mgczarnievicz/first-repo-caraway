@@ -1,2 +1,3 @@
-# Hello Carray
-The frist repo for Caraway
+# Learning Github and Markdown
+
+Today we are learning Github and Markdow. In the afternoon we will do the computer setup.
